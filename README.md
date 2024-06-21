@@ -14,10 +14,6 @@ Un conversor simple que puede convertir entre diferentes unidades como metros a 
 - CSS
 - JavaScript
 
-## Capturas de pantalla
-
-![Captura de pantalla](screenshot.png)
-
 ## Uso
 
 1. Clona el repositorio:
